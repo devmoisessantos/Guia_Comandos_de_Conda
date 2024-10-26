@@ -26,7 +26,8 @@ O `conda` é uma ferramenta de código aberto para **gerenciamento de pacotes** 
 
 
 1. **Compatibilidade entre Plataformas**: `Conda` possibilita criar pacotes para diferentes sistemas operacionais (Windows, macOS e Linux), garantindo maior flexibilidade e portabilidade.
-2. 
-3. **Facilidade em Gerenciamento de Dependências**: Automatiza a instalação das dependências de pacotes complexos, garantindo a configuração correta de todos os recursos necessários.
+
+
+2.**Facilidade em Gerenciamento de Dependências**: Automatiza a instalação das dependências de pacotes complexos, garantindo a configuração correta de todos os recursos necessários.
 
 O `conda` é particularmente útil para desenvolvedores, cientistas de dados e pesquisadores, que podem precisar gerenciar uma ampla variedade de ferramentas e bibliotecas em seus projetos.
