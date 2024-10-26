@@ -20,8 +20,6 @@ Comandos do Conda:
 
 **Exemplos Práticos:**
 
-> ``````
->
+> ```
 >> Exemplo de aplicação de cada comando no terminal.
->
-> ``````
+> ```
